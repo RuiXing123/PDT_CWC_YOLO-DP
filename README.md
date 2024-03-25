@@ -1,2 +1,2 @@
 # PDT_CWC_YOLO-IP
-The LH version label of the PDT dataset is uploaded later.
+An optimized version of the LH version of the PDT dataset with 104,102 labels
