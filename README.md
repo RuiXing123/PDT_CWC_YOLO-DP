@@ -1,2 +1,0 @@
-# PDT_CWC_YOLO-DP
-
