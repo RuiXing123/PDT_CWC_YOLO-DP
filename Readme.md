@@ -150,7 +150,7 @@
 
   **Detect**
 
-  ![](img/detect.png) 
+  ![](img/detect.jpg) 
 
   **Training**
 
