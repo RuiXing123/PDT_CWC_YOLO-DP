@@ -148,11 +148,11 @@
 
 ## Visualization Research
 
-  **Detect**
+  **Detect of PDT dataset**
 
   ![](img/detect.jpg) 
 
-  **Training**
+  **Training of CWC dataset**
 
   ![](img/loss.png) 
 
