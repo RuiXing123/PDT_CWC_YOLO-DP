@@ -1,4 +1,4 @@
-# <center>PDT dataset, CWC dataset and YOLO-DP</center>
+# <center>PDT: Uav Target Detection Dataset for Pests and Diseases Tree</center>
 
 ## Abstract
 
