@@ -8,7 +8,7 @@
   Finally, we propose the YOLO-Dense Pest (YOLO-DP) model for high-precision object detection of weed, pest, and disease crop images.  We re-evaluate the state-of-the-art detection models with our proposed PDT dataset and CWC dataset, showing the completeness of the dataset and the effectiveness of the YOLO-DP.
 ## Download Dataset
 
-  **Hugging Face:** [PDT dataset](https://huggingface.co/datasets/qwer0213/PDT_dataset/tree/main), [CWC dataset](https://huggingface.co/datasets/qwer0213/CWC_dataset/tree/main)
+  **Hugging Face:** [PDT dataset v2 (Improve the quality 2024.10.4)](https://huggingface.co/datasets/qwer0213/PDT_dataset/tree/main), [CWC dataset](https://huggingface.co/datasets/qwer0213/CWC_dataset/tree/main)
 ## Code
 
   **GitHub:** [YOLO-DP Model](https://github.com/RuiXing123/PDT_CWC_YOLO-DP)
